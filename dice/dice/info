@@ -1,0 +1,204 @@
+{
+  "uuid": "728e207b711c8daa81695717413377e7",
+  "path": "Offline/HW-9",
+  "name": "HW-9",
+  "content": "",
+  "created_at": "2021-07-07 16:45:50",
+  "updated_at": "2021-07-10 20:49:51",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "810a5166803ca4088901910da9e9c527",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "8850ffcdb9d242a1b431d4a3e2209db1": 7,
+        "60767407fb174a858e0d49b0e6204738": 1,
+        "5d56951fd43d4b5083b0f3cd9bfd5587": 8,
+        "59d6d42fb478482e83852243fcdc6db6": 1,
+        "4a39c385ee62425880822cfd905dd4d2": 1,
+        "1ef737ffdaf54550987471ce2f14b22f": 1,
+        "a1e5dcab2120451bb7ec5b485bf35ddc": 1,
+        "18479f1c4d4749c5a4c4387846c5d657": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BC327-40",
+          1,
+          "TO-92-3_L4.9-W3.7-P1.27-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C713608",
+            "BOM_Manufacturer": "LGE",
+            "BOM_Manufacturer Part": "BC327-40",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "6924b36489de4921bb29ca14bf27c33f",
+            "uuid": "1ef737ffdaf54550987471ce2f14b22f"
+          }
+        ],
+        [
+          "SN74LS90",
+          1,
+          "DIP14",
+          "U2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "4a39c385ee62425880822cfd905dd4d2"
+          }
+        ],
+        [
+          "2.7K",
+          1,
+          "R_AXIAL-0.3",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "470",
+          3,
+          "R_AXIAL-0.3",
+          "R2,R4,R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "220",
+          4,
+          "R_AXIAL-0.3",
+          "R8,R5,R6,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "10n",
+          1,
+          "RAD-0.1",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ea82fbe34d7840de9fdcf3145ab199ef",
+            "uuid": "59d6d42fb478482e83852243fcdc6db6"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          7,
+          "LED-TH_BD5.0_RED",
+          "LED5,LED6,LED7,LED1,LED3,LED4,LED2",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "ce0ed154d45b41508e0debca8473ba07",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "K4-6×6_TH",
+          1,
+          "KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "KEY3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C136684",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "K2-1102DP-E4SW-04",
+            "puuid": "557c105168d444a992e25584f55bcbb2",
+            "uuid": "18479f1c4d4749c5a4c4387846c5d657"
+          }
+        ],
+        [
+          "SN7400N",
+          1,
+          "DIP14",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "d3ea42d063a54d01a2b3ec87c69cd22a",
+            "uuid": "60767407fb174a858e0d49b0e6204738"
+          }
+        ],
+        [
+          "KH-A2541WV-2P",
+          1,
+          "HDR-TH_2P-P2.54-V-M",
+          "H1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2833329",
+            "BOM_Manufacturer": "kinghelm(金航标)",
+            "BOM_Manufacturer Part": "KH-A2541WV-2P",
+            "puuid": "e6b180e1316a4d0690f78b72797504c2",
+            "uuid": "a1e5dcab2120451bb7ec5b485bf35ddc"
+          }
+        ]
+      ],
+      "updateTime": 1625938902,
+      "createTime": 1625666323,
+      "histories": [],
+      "created_at": "2021-07-07 16:58:43",
+      "updated_at": "2021-07-10 20:41:42"
+    },
+    {
+      "uuid": "456e272f154596cd0b9f21b48dd61e07",
+      "puuid": "728e207b711c8daa81695717413377e7",
+      "title": "PCB_HW-9",
+      "filename": "PCB_HW-9.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3eb1249f3ebb4284ae221b0379016582": 8,
+        "ea82fbe34d7840de9fdcf3145ab199ef": 1,
+        "ce0ed154d45b41508e0debca8473ba07": 7,
+        "d3ea42d063a54d01a2b3ec87c69cd22a": 2,
+        "6924b36489de4921bb29ca14bf27c33f": 1,
+        "e6b180e1316a4d0690f78b72797504c2": 1,
+        "557c105168d444a992e25584f55bcbb2": 1
+      },
+      "BOM": [],
+      "updateTime": 1625939391,
+      "createTime": 1625937148,
+      "histories": [],
+      "created_at": "2021-07-10 20:12:28",
+      "updated_at": "2021-07-10 20:49:51"
+    }
+  ],
+  "sort": [],
+  "title": "HW-9",
+  "foldername": "HW-9",
+  "schfilename": "HW-9.json",
+  "schfilemtime": 1625938902425
+}
